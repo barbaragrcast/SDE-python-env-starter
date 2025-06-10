@@ -21,5 +21,6 @@ def game():
             game()
     else:
         print('Please only type: Door 1, Door 2 or Door 3')
+        game()
 game()
 
